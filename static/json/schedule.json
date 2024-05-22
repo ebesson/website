@@ -475,19 +475,19 @@
   "slides_url" : null,
   "description" : "Développer un jeu vidéo est déjà un défi de taille, mais aborder la dimension multijoueur équivaut à affronter le boss final de Mario Bros - ça ne s'improvise pas.\r\nDans ce talk, je vous invite à découvrir les challenges auxquels j'ai été confronté lors du développement de ce jeu.\r\nNous explorerons les problématiques liées à la fluidité, à l'interactivité, à l'implémentation des règles du jeu, à la gestion du réseau, avec un soupçon d’isomorphisme et un zeste de DDD pour obtenir une base de code fonctionnant à la fois sur serveur et sur mobile, connecté ou hors ligne."
 }, {
-  "id" : "662583",
-  "name" : "Compose to Kube, Episode IV: Un nouvel espoir",
+  "id" : "658496",
+  "name" : "Des batches à moindre coût environnemental !",
   "event_start" : "2024-06-27T17:00:00",
   "event_end" : "2024-06-27T17:30:00",
-  "event_type" : "DevOps",
+  "event_type" : "Écoconception",
   "format" : "Tool in action",
   "venue" : "Track 1",
   "venue_id" : null,
-  "speakers" : "Nicolas De Loof",
+  "speakers" : "Édouard Siha",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Kubernetes est le standard _de facto_ dans notre industrie pour orchestrer des applications conteneur-izées en production. Les développeurs apprécient pourtant toujours autant la simplicité et la compacité du modèle proposé par Docker Compose, au moins pendant le développement. Une demande qui revient donc en boucle concerne une traduction auto-magique du compose.yaml en fichiers kube.yaml.\r\n\r\nCette fonctionnalité a été proposée par de nombreux outils, avec des approches diverses, y compris par Docker avec “Compose on Kubernetes” qui a finalement été déprécié. Nous avons eu une expérience similaire avec les \"Cloud Integrations\" et le traduction de Compose vers Amazon ECS.\r\n\r\nDans cette session, nous explorerons notre héritage pour comprendre les raisons de ces échecs, avant de vous présenter la nouvelle génération d'outil \"Compose to Kube\" sur laquelle nous travaillons, qui veut combiner la simplicité pour un développeur à déployer son application compose.yaml sur k8s, and la flexibilité pour les équipes plateforme de contrôler et d'adapter la conversion pour correspondre aux solutions techniques déployées sur leur cluster."
+  "description" : "J'ai souvent un gros batch à exécuter... Il prend environ 1h à chaque fois et mon petit cœur responsable me dit qu'il faut minimiser son empreinte environnementale. Mais comment faire ?\r\n\r\nDécouvrez par la pratique comment avoir un impact mesurable et repartez avec les bons concepts directement applicables (unités de mesure, temporal shifting, spatial shifting, etc.) et les outils à connaître (electricity maps, sdk carbon aware, etc.)."
 }, {
   "id" : "654315",
   "name" : "Déverrouiller sa porte en une commande slack \uD83E\uDD16 #iot #diy #cloud",
@@ -965,19 +965,19 @@
   "slides_url" : null,
   "description" : "Plongez dans l'univers de la sécurité et du hacking avec Exegol, un outil qui vous fera rapidement oublier votre bonne vieille VM kali pour laisser place à la flexibilité et la rapidité des conteneurs Docker !\r\n\r\nNous découvrirons comment cet outil peut être utilisé pour renforcer la sécurité d'une infrastructure, détecter les vulnérabilités ou optimiser les pratiques de hacking éthique.\r\n\r\nUne installation d'Exegol sera faite avant de passer à la pratique avec un challenge CTF, conçu pour simuler des scénarios réalistes et explorer les fonctionnalités de l'outil dans le cadre d'un test de pénétration."
 }, {
-  "id" : "658496",
-  "name" : "Des batches à moindre coût environnemental !",
+  "id" : "662583",
+  "name" : "Compose to Kube, Episode IV: Un nouvel espoir",
   "event_start" : "2024-06-27T17:30:00",
   "event_end" : "2024-06-27T18:00:00",
-  "event_type" : "Écoconception",
+  "event_type" : "DevOps",
   "format" : "Tool in action",
   "venue" : "Track 5",
   "venue_id" : null,
-  "speakers" : "Édouard Siha",
+  "speakers" : "Nicolas De Loof",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "J'ai souvent un gros batch à exécuter... Il prend environ 1h à chaque fois et mon petit cœur responsable me dit qu'il faut minimiser son empreinte environnementale. Mais comment faire ?\r\n\r\nDécouvrez par la pratique comment avoir un impact mesurable et repartez avec les bons concepts directement applicables (unités de mesure, temporal shifting, spatial shifting, etc.) et les outils à connaître (electricity maps, sdk carbon aware, etc.)."
+  "description" : "Kubernetes est le standard _de facto_ dans notre industrie pour orchestrer des applications conteneur-izées en production. Les développeurs apprécient pourtant toujours autant la simplicité et la compacité du modèle proposé par Docker Compose, au moins pendant le développement. Une demande qui revient donc en boucle concerne une traduction auto-magique du compose.yaml en fichiers kube.yaml.\r\n\r\nCette fonctionnalité a été proposée par de nombreux outils, avec des approches diverses, y compris par Docker avec “Compose on Kubernetes” qui a finalement été déprécié. Nous avons eu une expérience similaire avec les \"Cloud Integrations\" et le traduction de Compose vers Amazon ECS.\r\n\r\nDans cette session, nous explorerons notre héritage pour comprendre les raisons de ces échecs, avant de vous présenter la nouvelle génération d'outil \"Compose to Kube\" sur laquelle nous travaillons, qui veut combiner la simplicité pour un développeur à déployer son application compose.yaml sur k8s, and la flexibilité pour les équipes plateforme de contrôler et d'adapter la conversion pour correspondre aux solutions techniques déployées sur leur cluster."
 }, {
   "id" : "1f0f8bd1-9192-441e-b1fa-0da65a8db338",
   "name" : "Accueil / Café",
