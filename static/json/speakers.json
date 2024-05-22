@@ -99,16 +99,6 @@
   "twitter" : null,
   "social" : null
 }, {
-  "id" : "e9483b6a-828a-460b-b4cd-fea7f8b6c579",
-  "lastname" : "Beldjilali",
-  "firstname" : "Mehdi",
-  "imageProfilURL" : "https://sessionize.com/image/fb97-400o400o1-H8Sz14xqNPAcsxLido5MF6.jpg",
-  "bio" : "Tech Lead backend",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
-}, {
   "id" : "cb131f59-0740-4ae6-a19c-2eaa5c295ebb",
   "lastname" : "Bierlaire",
   "firstname" : "Olivier",
@@ -169,31 +159,11 @@
   "twitter" : "@abrianceau",
   "social" : "https://www.linkedin.com/in/abrianceau/"
 }, {
-  "id" : "4ae31947-8dab-495a-9ff9-e132649c76fc",
-  "lastname" : "Briault",
-  "firstname" : "Julien",
-  "imageProfilURL" : "https://sessionize.com/image/9512-400o400o1-BLB9F2ksQhhZZAGR9VF3jh.png",
-  "bio" : "Network Engineer SRE chez Deezer et IT Manager à mes heures perdues au Restos du Cœur et développeur Rust/Go sur le temps qu'il me reste, je suis un passionné d'informatique, de réseau informatique et de logiciels libres. ",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : "@ju_hnny5",
-  "social" : "https://www.linkedin.com/in/julien-briault-441539137/"
-}, {
   "id" : "c6e56b96-4a08-4dda-9802-22aa4cc17cd4",
   "lastname" : "Brousse",
   "firstname" : "Sébastien",
   "imageProfilURL" : "https://sessionize.com/image/ac53-400o400o1-D49MPX3bN9YsSgVjeiTLck.jpg",
   "bio" : "Développeur, architecte et associé chez LIKSI, j'ai 15 ans d'expérience dans le service sur des sujets de systèmes distribués, de Continuous Delivery et d'infra Cloud.\r\nJ'ai cofondé et développé Cloud-IAM pour proposer une solution SaaS d'authentification européenne, sans vendor lock in.",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
-}, {
-  "id" : "210fae80-907c-4587-9ee4-558780372e0d",
-  "lastname" : "BUi",
-  "firstname" : "Chi Thanh",
-  "imageProfilURL" : null,
-  "bio" : "Fullstack, front, back, DevOps  - Couteau suisse de la tech :) ",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
@@ -909,16 +879,6 @@
   "twitter" : null,
   "social" : null
 }, {
-  "id" : "5652fbbb-5841-4ec1-a36e-edb9ebf6de44",
-  "lastname" : "Raude-Morvan",
-  "firstname" : "Damien",
-  "imageProfilURL" : "https://sessionize.com/image/c2da-400o400o1-a03372fe-5ff3-46f7-abf3-2aa905437922.jpg",
-  "bio" : "Damien Raude-Morvan est Senior Staff Engineer chez Decathlon Digital.\r\nIl est présent dans l'écosystème numérique nantais depuis 20 ans avec des rôles d'architecte logiciel, de formateur, de responsable R&D ou de CTO.  Il est également contributeur différents communautés Open Source (Apache, Debian).",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : "https://www.linkedin.com/in/damienraudemorvan/"
-}, {
   "id" : "f7977f6a-ca50-40c6-b54f-b55db26cb0dd",
   "lastname" : "Reynier",
   "firstname" : "Maxime",
@@ -1004,6 +964,16 @@
   "firstname" : "Alexandre",
   "imageProfilURL" : "https://sessionize.com/image/49a9-400o400o1-SXsPYLYMfyxjRnaapAdZeM.jpg",
   "bio" : "Tombé dans la marmite étant petit, le développement est avant tout une passion avant d'être mon métier. J'aime aussi partager sur d'autre sujet comme l'impression 3D ou l'électronique !",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "14f4e489-2a71-41eb-99ee-b00935548d4b",
+  "lastname" : "Toanen",
+  "firstname" : "Malo",
+  "imageProfilURL" : "https://sessionize.com/image/2899-400o400o1-4pbL9Z88TxwmkQzZEAAwmi.jpg",
+  "bio" : "Ancien designer graphique, reconverti dans le développement backend depuis 7 ans (Java & Kotlin), avec des affinités pour le Craft, la CI/CD, l'architecture logicielle et la bonne ambiance.",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,

@@ -181,19 +181,19 @@
   "slides_url" : null,
   "description" : "Vous utilisez REST, peut être même SOAP dans des projets plus historiques. \r\nMais connaissez-vous les alternatives à ces modes d'échange ?\r\nGraph QL, gRPC sont des exemples qui ont été adoptés plus récemment et qui enrichissent l'écosystème de nouvelles  possibilités.\r\n\r\nQuelle est la solution la plus appropriée en fonction de votre contexte ?\r\nQuels sont les limites et inconvénients de chacun ?\r\n\r\nCharline et Nicolas, respectivement lead-front et lead-back, vous proposent cinq critères construits au fil de leurs expériences. \r\nCes clés vous aideront à choisir le mode de communication le plus adapté aux problématiques que vous avez à résoudre.  \r\n"
 }, {
-  "id" : "660722",
-  "name" : "La force du temp réel : développement d'un jeu mobile de palet breton/vendéen multijoueur",
+  "id" : "658467",
+  "name" : "Du code source à l'exécutable : plongée dans les entrailles de la compilation en Rust",
   "event_start" : "2024-06-26T16:00:00",
   "event_end" : "2024-06-26T17:00:00",
-  "event_type" : "Mobile",
+  "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Track 4",
   "venue_id" : null,
-  "speakers" : "Vincent Ogloblinsky",
+  "speakers" : "Édouard Siha",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Développer un jeu vidéo est déjà un défi de taille, mais aborder la dimension multijoueur équivaut à affronter le boss final de Mario Bros - ça ne s'improvise pas.\r\nDans ce talk, je vous invite à découvrir les challenges auxquels j'ai été confronté lors du développement de ce jeu.\r\nNous explorerons les problématiques liées à la fluidité, à l'interactivité, à l'implémentation des règles du jeu, à la gestion du réseau, avec un soupçon d’isomorphisme et un zeste de DDD pour obtenir une base de code fonctionnant à la fois sur serveur et sur mobile, connecté ou hors ligne."
+  "description" : "Comment le compilateur Rust fait-il pour assurer le respect de la notion d'emprunt ? Pourquoi est-il capable de générer facilement des binaires spécialisés pour une plateforme d'exécution différente de celle de la plateforme de compilation ? Quel genre d'optimisations surprenantes est-il capable de réaliser ? Quelles caractéristiques le différencie des compilateurs utilisés pour le C ? Pour le Java ?\r\n\r\nEmbarquez avec moi pour un parcours didactique où l'émerveillement est de mise !\r\n"
 }, {
   "id" : "669619",
   "name" : "Flink vs Kafka Streams : le duel des titans du streaming",
@@ -209,19 +209,19 @@
   "slides_url" : null,
   "description" : "Imaginez un duel improbable :\r\n\r\n- d'un coté, un écureuil, cet animal si mignon de la famille des sciuridés, à la fois agile et rapide, capable d'amasser et de stocker des grandes quantités de nourriture\r\n- de l'autre côté, une tasse à café, robuste, fidèle et bien connue, avec son fidèle compagnon Kafka Stream qui, depuis des années, nous permet de streamer de la donnée de la plateforme Kafka\r\n\r\nCombat inégal pour certains ou gagné d'avance pour d'autres ? Comment cet écureuil a réussi à chambouler le monde du streaming de données dans Kafka depuis plus d'un an ? Kafka Streams, c'est bien pour les nostalgiques. Apache Flink, c'est pour les pionniers du streaming de données.\r\n\r\nPrêt à basculer ?"
 }, {
-  "id" : "668905",
-  "name" : "L’open-source n’est pas (déjà) mort",
+  "id" : "658620",
+  "name" : "Burn Your Idols - Comment devenir un bon rôle modèle ?",
   "event_start" : "2024-06-26T10:00:00",
   "event_end" : "2024-06-26T11:00:00",
   "event_type" : "Autre...",
   "format" : "Conférence",
   "venue" : "Track 5",
   "venue_id" : null,
-  "speakers" : "Alexandre Brianceau",
+  "speakers" : "Magali Milbergue",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Est-ce que le meilleur de l’open-source est derrière nous ? Lorsque l’on voit les changements de licences d’Elastic, MongoDB ou Hashicorp ; ou l’arrivée de CentOS Stream et l’arrêt de distribution sans restrictions des sources par Redhat, on peut se poser la question.\r\n\r\nCette conférence résume les principaux bouleversements et propose d’enquêter sur les raisons de ces changements ainsi que d'étudier leurs impacts. Après avoir raconté l’historique, les licences BSL, SSPL et dérivées sont expliquées concrètement pour comprendre les enjeux.\r\n\r\nDestinées à combattre l’avidité des Cloud Providers et les GAFAM qui ne contribuent pas assez, il n’empêche que ces nouvelles licences ne sont pas open-source.\r\n\r\nQu’est-ce que ces hybridations entre open-source et propriétaire impliquent ? Pourquoi ces entreprises passent par ces mesures ? Est-ce qu’on ne verrait pas les limites de l’open-source ?"
+  "description" : "En tant que jeune fille qui aimait la science et voulait apprendre à coder, les seules quelques femmes de la tech que je pouvais trouver étaient les très très très extraordinaires comme Ada Lovelace, Grace Hopper ou Margaret Hamilton. 20 ans plus tard, il y a de grandes chances que si je vous demande de me parler de rôles modèles féminins dans la tech, vous me citiez ces mêmes noms. \r\n\r\nEt ces noms ne sont pas des mauvais noms. Ces femmes sont des rôles modèle. Mais elles sont des rôles modèles GENIAUX. Le genre de rôles modèles auquel il est très dur de s’identifier. Même avec un égo plutôt sain, je ne vois pas comment la plupart des femmes pourraient se dire “je suis la prochaine Ada Lovelace !”. \r\n\r\nCes femmes extraordinaires finissent par avoir l’impact inverse à celui qu’on voudrait qu’elles aient. En n’ayant que des femmes très très extraordinaires comme modèles, nous finissons par nous dire que nous n’avons pas notre place dans la tech comme nous ne sommes pas aussi extraordinaires. Et c’est bien sûr faux, il n’y a pas besoin d’être un génie pour travailler dans la tech. \r\n\r\nAvec cette conférence, je vais essayer de démontrer comment avoir uniquement des femmes très extraordinaires, des génies en rôles modèles est toxique pour les femmes qui n’arrivent pas à s’y retrouver, et donne des excuses à l’industrie pour  mettre la barre très haut en terme de compétences pour les femmes qui veulent y entrer. Ensemble, nous essaierons de trouver une façon d’avoir des modèles qui puissent impacter positivement les femmes de la tech, et nous nous demanderons ce qu’un bon rôle modèle devrait être. "
 }, {
   "id" : "658066",
   "name" : "Défier l'entropie : réécrire ses applications ou reprendre le contrôle ?",
@@ -265,19 +265,19 @@
   "slides_url" : null,
   "description" : "Avec le temps, beaucoup d’applications ont tendance à devenir de plus en plus lourdes, jusqu’à atteindre un point où tout changement devient si coûteux qu'il vous sera impossible de vous adapter aux besoins de vos utilisateurs. C'est le signe d'une conception rigide. L'adoption de Clean Code et des patterns tactiques de DDD peut rendre la situation supportable, mais on reste en surface ; le problème sous-jacent reste présent.\r\n\r\nÇa tombe bien, le Domain-Driven Design propose toute une section, trop souvent oubliée, sur le « Supple Design ». Elle fournit des techniques pour tendre vers une conception flexible, qui pourra s'adapter simplement aux évolutions futures. En somme, un code sur lequel il est, et sur lequel il restera, un plaisir de travailler. \r\n\r\nCes principes qui datent de plus de 20 ans sont-ils toujours d'actualité ? Comment s'articulent-ils avec d'autres concepts qui ont émergé depuis ? En quoi constituent-ils un ensemble cohérent ? Afin de répondre à ces questions, je vous propose un live coding au cours duquel nous passerons en revue chacun des principes du Supple Design en nous appuyant sur des exemples concrets."
 }, {
-  "id" : "666968",
-  "name" : "Comment monitorer efficacement une plateforme Apache Kafka ?",
+  "id" : "670915",
+  "name" : "Et si on ouvre grand les bras aux SIG ?",
   "event_start" : "2024-06-26T16:00:00",
   "event_end" : "2024-06-26T17:00:00",
-  "event_type" : "Data",
+  "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Track 5",
   "venue_id" : null,
-  "speakers" : "Ludovic Boutros, Adam Souquieres",
+  "speakers" : "Talab Ou Ali Halima",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Apache Kafka, c’est un fantastique système distribué permettant de diffuser et stocker de l’information, des événements techniques ou métiers. Il est extrêmement performant et tolérant aux pannes. \r\nDurant cette session, au travers d’un cas d’usage fictif, nous rappellerons brièvement les concepts principaux d’Apache Kafka et nous aborderons ensuite comment monitorer chaque composant d’une plateforme de streaming de données (Broker, Zookeeper/Kraft Controller, Connect, Producer/Consumer, Kafka streams).\r\nNous détaillerons certaines métriques indispensables et les alertes associées.\r\n\r\nEst-on prêt à partir en production une fois tout cela mis en place ?\r\n\r\nPossiblement. \r\n\r\nMais c’est à ce moment-là que les utilisateurs métiers entrent en jeu et ce monitoring technique de la plateforme ne répondra pas à leurs besoins.\r\n\r\nPar exemple : \r\nEst-ce que l’ensemble des événements ont bien été traités par mon workflow ?\r\nY a-t-il des transactions bloquées à une certaine étape du processus ?\r\n\r\nNous verrons alors plusieurs stratégies pour aligner le monitoring avec les besoins métiers."
+  "description" : "Si l'on évoque le domaine de la géographie, notre esprit se tourne probablement vers la Terre et ses différents phénomènes physiques, biologiques et humains. Cependant, il existe un autre aspect de la géographie qui est orienté vers l'informatique : le SIG (Système d'Information Géographique). Ce dernier est un outil informatique qui permet la représentation et l'analyse de tout ce qui se trouve sur terre ainsi que les événements qui y surviennent. Grâce à sa grande accessibilité et à ses nombreuses applications, le SIG est de plus en plus sollicité dans notre quotidien. Dans ce talk, nous allons explorer des exemples d'outils et de services offerts par le SIG ainsi que les domaines dans lesquels il est appliqué."
 }, {
   "id" : "666590",
   "name" : "RetEx : Optimisation du temps de démarrage d'une application Java Spring.",
@@ -349,19 +349,19 @@
   "slides_url" : null,
   "description" : "Votre application de recensement des Jedis est en train de perdre la boule \uD83D\uDE35‍\uD83D\uDCAB\r\n\r\nElle est basée sur un moteur de recherche Elasticsearch et ce dernier semble complètement délirer.\r\n\r\nAlors que ma recherche devrait me remonter les Jedis les plus populaires de la galaxie, elle me remonte des Siths d'horizons inconnus … Ca n’a aucun sens \uD83D\uDE2D\r\n\r\nPourtant nous avons vu avec les POs, on a implémenté tout ce qu’ils voulaient: des recherches floues, de la racinisation, ne pas prendre en compte la casse, ni les accents. On ne sait plus ou donner de la tête.\r\n\r\nDans cette présentation, nous soulèverons le capot d’Elasticsearch pour comprendre comment sont réellement exécutées vos requêtes full-text. L’idée est de vous donner tous les trucs et astuces que j’utilise au quotidien pour aider mes clients à comprendre leur soucis de matching et de pertinence dans leurs requêtes.\r\n\r\nOn utilisera intégralement l’API d’Elasticsearch pour aller customiser nos mappings, nos queries, nos algorithmes de scoring pour essayer d’arriver à une solution de search intelligente et efficace \uD83D\uDE0A"
 }, {
-  "id" : "667155",
-  "name" : "\uD83D\uDDC4️Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?",
+  "id" : "660722",
+  "name" : "La force du temp réel : développement d'un jeu mobile de palet breton/vendéen multijoueur",
   "event_start" : "2024-06-27T16:00:00",
   "event_end" : "2024-06-27T17:00:00",
-  "event_type" : "DevOps",
+  "event_type" : "Mobile",
   "format" : "Conférence",
   "venue" : "Track 1",
   "venue_id" : null,
-  "speakers" : "Jean-Philippe Baconnais, Jules Agostini",
+  "speakers" : "Vincent Ogloblinsky",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "La CI/CD fait partie de notre quotidien. Que l’on soit développeur·euse, ou bien Ops, nous avons forcément passé du temps à créer ou modifier des scripts de CI/CD.\r\n\r\nUn nouveau script de CI/CD ? Pas de soucis, nous savons où trouver un exemple et utilisons la force de frappe d’un bon vieux “copier / coller” pour avoir un pipeline de CI tout beau tout propre sur notre projet.\r\n\r\nPourquoi ne pas migrer vos stages et vos jobs dans des “catalogues de CI/CD” pour avoir l’ensemble de vos scripts à disposition sur une étagère ?\r\n\r\nAprès vous avoir présenté cette approche, je vous détaillerai la manière de la mettre rapidement en place dans GitLab. Nous verrons ses avantages et inconvénients et terminerons par parler de la solution R2DevOps qui a depuis plusieurs années créé leur solution en se basant sur cette notion de catalogue."
+  "description" : "Développer un jeu vidéo est déjà un défi de taille, mais aborder la dimension multijoueur équivaut à affronter le boss final de Mario Bros - ça ne s'improvise pas.\r\nDans ce talk, je vous invite à découvrir les challenges auxquels j'ai été confronté lors du développement de ce jeu.\r\nNous explorerons les problématiques liées à la fluidité, à l'interactivité, à l'implémentation des règles du jeu, à la gestion du réseau, avec un soupçon d’isomorphisme et un zeste de DDD pour obtenir une base de code fonctionnant à la fois sur serveur et sur mobile, connecté ou hors ligne."
 }, {
   "id" : "662583",
   "name" : "Compose to Kube, Episode IV: Un nouvel espoir",
@@ -433,19 +433,19 @@
   "slides_url" : null,
   "description" : "Jest, Vitest, Cypress, Playwright... Tests unitaires, de composants, d'intégration, visuels, end-to-end. Autant d'outils et de types de tests anciens et nouveaux qui souvent se recoupent.\r\n\r\nDans ce talk, nous verrons l'anatomie d'un framework de test et de ses différents composants. Cela nous permettra de faire un point sur les solutions de test du moment, leurs avantages et leurs défauts.\r\n\r\nSurtout je vous présenterai mes recommandations, avec des alternatives, et les clefs pour choisir votre outillage."
 }, {
-  "id" : "665259",
-  "name" : "Réseaux Kubernetes : Premiers pas avec Cilium",
+  "id" : "652330",
+  "name" : "La recherche à l'ère de l'IA",
   "event_start" : "2024-06-27T14:30:00",
   "event_end" : "2024-06-27T15:30:00",
-  "event_type" : "DevOps",
+  "event_type" : "IA",
   "format" : "Conférence",
   "venue" : "Track 2",
   "venue_id" : null,
-  "speakers" : "Paul Chaignon",
+  "speakers" : "David Pilato",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Après quelques déploiements Kubernetes, il est souvent nécessaire de s'intéresser aux aspects réseaux. Une avalanche d'acronymes apparaît alors, les IP deviennent \"virtuelles\", le réseau devient un \"overlay\" et plus personne ne s'y retrouve.\r\n\r\nCette présentation propose de reprendre les concepts réseaux de Kubernetes, sans analogies et en limitant les acronymes. La présentation abordera les concepts suivants :\r\n- Le plugin réseau : connecter les pods entre eux.\r\n- Les services : distribuer les clients vers les pods.\r\n- Les politiques réseaux : segmenter son réseau.\r\n- Hubble : observer et déboguer son réseau.\r\n\r\nCes concepts seront illustrés à l'aide du plugin réseau open source Cilium. Dans ses dernières versions, Cilium offre de meilleures performances sur chacun de ces concepts réseaux. Les raisons de ces gains de performances seront aussi expliquées."
+  "description" : "La recherche ne se contente plus de l'approche maintenant traditionnelle basée sur la fréquence des termes (TF/IDF ou BM25) mais plus sur la tendance actuelle du machine learning où les nouveaux modèles ont ouvert une nouvelle dimension pour la recherche.\r\n\r\nCette conférence donne un aperçu de :\r\n\r\n* La recherche \"Classique\" et ses limitations\r\n* Qu'est qu'un modèle de machine learning et comment vous pouvez l'utiliser\r\n* Comment utiliser la recherche vectorielle ou la recherche hybride dans Elasticsearch\r\n* Comment ChatGPT d'OpenAI ou les \"large language models\" (LLMs) similaires viennent jouer naturellement avec Elastic\r\n\r\nLa démo principale montre comment générer des embeddings à partir de musiques puis comment trouver la musique qui s'approche le plus d'une musique que nous fredonnons \uD83C\uDFB6\uD83C\uDFB8\uD83C\uDFBB."
 }, {
   "id" : "654458",
   "name" : "La Clean Archi ca marche aussi dans le Front !",
@@ -517,19 +517,19 @@
   "slides_url" : null,
   "description" : "Le Sol'Ex (\"Solar Explorer\") est un instrument amateur, inventé par Christian Buil, qui permet d'observer le soleil sous différentes longueurs d'ondes. C'est un type de spectrohéliographe, un instrument qui date des années 1890, mais qui était gros et difficile à utiliser. Avec les technologies modernes comme les capteurs CMOS et les imprimantes 3D, nous disposons désormais d'instruments bon marché accessibles à tous les amateurs.\r\nCe qui est cependant intéressant avec cet instrument, c'est qu'il ne produit pas directement une image observable \"à l'oculaire\". En effet, le traitement logiciel est indispensable : il demande la reconstruction d'une image à partir d'une vidéo qui contient une portion du spectre solaire.\r\nLe logiciel officiel pour faire ce traitement s'appelle INTI, est co-écrit par Valérie Desnoux et Christian Buil, en Python. Mais en tant qu'astronome amateur, j'étais habitué à utiliser des logiciels pour le traitement d'images astronomiques, mais pas à en concevoir. J'ai pris l'opportunité de l'utilisation du Sol'Ex pour me lancer dans le challenge d'écrire un logiciel pour le Sol'Ex, mais écrit en Java, qui me permettrait à la fois de comprendre comment cet incroyable instrument fonctionne, mais aussi de me lancer des défis, tels que savoir si j'étais encore capable de lire des papiers académiques.\r\nDans cette session je présenterai donc mon résultat, presque un an après mon premier contact avec un Sol'Ex, et ce qui fait de JSol'Ex un logiciel unique."
 }, {
-  "id" : "664925",
-  "name" : "Les brouteurs d'IA",
+  "id" : "663769",
+  "name" : "Playwright : tester vos applications devient un jeu d'enfant",
   "event_start" : "2024-06-27T12:45:00",
   "event_end" : "2024-06-27T13:00:00",
-  "event_type" : "Autre...",
+  "event_type" : "Web",
   "format" : "Quicky",
   "venue" : "Track 3",
   "venue_id" : null,
-  "speakers" : "Nicolas Ledez",
+  "speakers" : "Benjamin Cavy",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Alors, je dois vous avouer, j’ai une grande passion. C’est me faire arnaquer.\r\nComme cela, je comprends mieux le pourquoi et le comment de certaines duperies.\r\n\r\nEt il y a quelques années, j’ai été contacté par de “charmantes jeunes femmes de ma région”.\r\nEt comme j’avais un peu de temps à perdre, j’ai cherché l’amour.\r\n\r\nBien entendu, je l’ai trouvé. 3 fois !\r\n\r\nTout cela m’a permis de bien comprendre certaines demandes, et les différentes mécaniques mises en place dans ces escroqueries. D’une certaine manière, je fais du reverse engineering d’arnaques.\r\n\r\nEt l’IA dans tout ça ? Il faudra venir me voir pour savoir :)\r\n\r\nEt pourquoi je parle de tout ça dans une conférence technique ? Déjà parce que c’est marrant. Mais aussi parce que cela permet d’illustrer pas mal de choses au niveau de la sécurité."
+  "description" : "Tester unitairement ses composants graphiques c'est bien, tester le bon fonctionnement de toute son application via un navigateur pilotable programmatiquement c'est mieux !\r\n\r\nJe vous propose de vous présenter par la pratique Playwright, un outil permettant de tester les fonctionnalités de vos applications de manière performante dans tous les grands navigateurs du marché.\r\n\r\nJ'ai longtemps été un amoureux de Cypress pour ce genre de cas d'usage, mais j'ai été récemment très séduit par Playwright, qui propose à mon avis une meilleure expérience développeur via un outillage très complet.\r\n"
 }, {
   "id" : "670888",
   "name" : "Quelle est la structure d’un virus informatique et quels sont les outils de détection de virus",
@@ -559,19 +559,19 @@
   "slides_url" : null,
   "description" : "Découvrons ensemble les quinze années d'expérience de Redis, offrant une rétrospective riche en usages variés. Explorez comment tirer le meilleur parti de Redis avec des cas d'utilisation innovants, tout en abordant les défis de sa mise en production. De plus, plongeons dans les récentes évolutions de sa licence et comparons-le à ses alternatives telles que KeyDB, Valkey, Dragonfly et Skytable."
 }, {
-  "id" : "664410",
-  "name" : "Structurizr DSL : Au-delà des diagrammes vers l'Architecture-as-Code",
+  "id" : "670736",
+  "name" : "La bienveillance, (je trouve que) c'est de la \uD83D\uDCA9",
   "event_start" : "2024-06-27T14:30:00",
   "event_end" : "2024-06-27T15:30:00",
-  "event_type" : "Architecture",
+  "event_type" : "Autre...",
   "format" : "Conférence",
   "venue" : "Track 3",
   "venue_id" : null,
-  "speakers" : "Damien Raude-Morvan",
+  "speakers" : "Malo Toanen, Luc Sorel-Giffo",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Cette conférence présentera Structurizr DSL, un langage spécifique à un domaine (DSL) pour créer des modèles d'architecture logicielle.\r\n\r\nC4 Model est une notation puissante pour visualiser des diagrammes d'architecture, mais la création de nombreux diagrammes (par exemple avec PlantUML) peut être longue et sujette à des erreurs.\r\n\r\nLe Structurizr DSL résout ce problème en permettant aux architectes et aux développeurs de créer des modèles d'architecture en utilisant une syntaxe textuelle simple et intuitive. Nous fournirons des exemples de la façon dont il peut être utilisé pour créer différents types de modèles, y compris des diagrammes de composants, des diagrammes de déploiement mais aussi d'en sortir des analyses d'impacts. Enfin, nous montrerons comment Structurizr DSL peut être intégré dans les flux de développement existants, permettant aux architectes et aux développeurs d'incorporer facilement la modélisation de l'architecture dans leur travail quotidien.\r\n\r\nA l'issue de cette présentation, les participants auront une compréhension claire des avantages et des capacités du Structurizr DSL, et seront équipés des connaissances nécessaires pour commencer à l'utiliser dans leurs propres projets d'architecture logicielle.\r\n"
+  "description" : " Bon, on y est allé un peu fort sur le titre. La bienveillance est souvent revendiquée comme valeur de parents, de médiation, d’entreprise ; mais qu’implique-t-elle comme charge mentale, dissonance cognitive ou étiquette à porter ? Et puis qu’est-ce que ça veut dire être bienveillante ou bienveillant à la fin ?\r\n\r\n La bienveillance peut-elle d’ailleurs vraiment s’appliquer dans le milieu professionnel (travail d’équipe, management) où le rapport de force est souvent asymétrique ? D’ailleurs, est-ce vraiment une notion pertinente dans un débat opposant des intérêts ou des opinions divergentes ?\r\n\r\n La communication non violente est une méthodologie proposée pour la gestion de conflits, petits ou graves ; mais est-elle toujours applicable ? Sur quels fondements repose-t-elle ?\r\n\r\n Alors, allons-nous vraiment vous dire d’arrêter d’être empathique, d’arrêter de dire s’il te plaît, d’arrêter d’écouter attentivement la parole des autres ?\r\n Vous le saurez en venant."
 }, {
   "id" : "659416",
   "name" : "Les feature flags : le couteau suisse de votre flow de développement",
@@ -643,19 +643,19 @@
   "slides_url" : null,
   "description" : "Dans notre galaxie où l'innovation en matière d'intelligence artificielle est constamment en lutte avec la fragmentation, alimentée par une diversité de langages et de plateformes d'accélération matérielle, une dualité s'installe : d'un côté, Python règne en maître pour la modélisation et le prototypage, de l'autre, C, C++, Rust sont régulièrement convoqués pour la performance et la fiabilité. Cette dichotomie bride l'innovation, les experts fullstack se retrouvant souvent sous l'emprise de l'empire GAFAM.\r\n\r\nPourtant, un nouvel allié, le langage Mojo \uD83D\uDD25 émerge de l'ombre. Lancé il y a un an par la startup Modular créee par Chris Lattner (LLVM, CLang, Swift...) et désormais libéré en open source, Mojo se profile comme un puissant outil pour façonner l'avenir de l'IA. \r\n\r\nJ'ai voulu approfondir les concepts du langage et évaluer la courbe d'apprentissage en réalisant un benchmark de différentes implémentations d'un use-case de traitement d'image. Je vous raconterai dans ce talk comment après m'être laissé tenté par le coté obscur et connu un échec cuisant, je suis finalement revenu dans la voie du Jedi et obtenu des performances blazing fast."
 }, {
-  "id" : "668255",
-  "name" : "Le côté obscur des pull requests et comment lutter",
+  "id" : "652393",
+  "name" : "SOPS, Passez un savon à vos secrets en clair !",
   "event_start" : "2024-06-27T12:45:00",
   "event_end" : "2024-06-27T13:00:00",
-  "event_type" : "Méthodologie",
+  "event_type" : "DevOps",
   "format" : "Quicky",
   "venue" : "Track 4",
   "venue_id" : null,
-  "speakers" : "Hadrien Mens-Pellen",
+  "speakers" : "Sylvain Métayer",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Ce n’est pas la pratique que vous recherchez. La pull request est le mode par défaut d'un nombre incroyable d’équipe. \r\n\r\nPourtant c’est particulièrement inefficace et inadapté à de nombreux contextes. Le votre en fait probablement partie.\r\n\r\nDans ce quicky d’hérétique, je vous propose de regarder le côté obscur de cette pratique et comment vous pouvez repasser du coté clair de la force. "
+  "description" : "Chacun à ses secrets. Vos applications également. Cependant, tout comme nous avons droit à notre jardin secret, nos secrets aimeraient bien avoir leur petit coin ou ils peuvent indiquer leur données sensibles…​ Au vu de tous dans un dépôt Git consultable par toute votre équipe, cela s’annonce compliqué ? Venez voir comment SOPS peut vous aider, et vous pourrez ensuite passer un savon à quiconque pousse des secrets en clair sur vos dépôts !"
 }, {
   "id" : "666835",
   "name" : "Introduction aux Threads Virtuels en SpringBoot 3 à travers une démonstration",
@@ -727,19 +727,19 @@
   "slides_url" : null,
   "description" : "Revenons quelques années en arrière…​\r\n\r\n\r\nAout 2020, sortie de Terraform 0.13, votre nouveau projet saute dessus et l’utilise!\r\n\r\n\r\nJuin 2021, sortie de Terraform 1.0, pile au moment de déployer cette nouvelle infra, c’est parfait ! Pour votre ancien projet par contre, c’est un breaking change, il va falloir installer tfenv pour gérer les 2 versions..\r\n\r\n\r\nAvril 2022, sortie de NodeJS 18, parfait pour démarrer votre side-project ! Dommage pour votre ancienne librairie JS, bloqué en NodeJS 14, il va falloir installer nvm pour gérer les 2 versions, plus de temps pour faire la mise à jour..\r\n\r\n\r\nFatigué de devoir installer 50 outils différents pour changer de version de node/java/terraform/…​ ?\r\n\r\n\r\nVous aimeriez trouver un outil pour gérer de la même façon toutes les versions de vos outils, voir créer vos propres plugin pour gérer les versions de votre nouvel outil ?\r\n\r\n\r\nVenez à la rencontre d’asdf et voyons comment il pourra vous aider au quotidien !"
 }, {
-  "id" : "656899",
-  "name" : "Observabilité : dépoussiérer Prometheus avec VictoriaMetrics",
+  "id" : "666318",
+  "name" : "/e/OS, mon smartphone Android sans Google",
   "event_start" : "2024-06-27T17:30:00",
   "event_end" : "2024-06-27T18:00:00",
-  "event_type" : "DevOps",
+  "event_type" : "Mobile",
   "format" : "Tool in action",
   "venue" : "Track 4",
   "venue_id" : null,
-  "speakers" : "Julien Briault",
+  "speakers" : "Benoît Masson",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Prometheus s'est imposé comme un standard de facto dans nos infrastructures lorsque l'on souhaite faire de l'observabilité en collectant des métriques. Dans un contexte où l'on a besoin de se mettre rapidement à l'échelle (scalable), Prometheus commence à montrer ses faiblesses.\r\n\r\n\r\nPrometheus ne possède pas de système de haute disponibilité de manière native, il faut obligatoirement passer par des solutions plus ou moins complexes comme Thanos ou Cortex. Ces solutions s'ajoutent à la lourdeur originelle de Prometheus.\r\n\r\n\r\nVictoriaMetrics vient corriger tout cela en offrant une architecture micro-services où tout est découpé pour de meilleures performances (jusqu'à diviser les performances par 10) et une meilleure disponibilité sans perte de données.\r\n\r\nAinsi je ferais un bref historique de l'observabilité, des solutions existantes, et du pourquoi complet de VictoriaMetrics, car il y en a beaucoup à dire sur cet outil prometteur !\r\n\r\n\r\nJe vous ferais également un retour d'expérience sur l'utilisation de VictoriaMetrics Cluster aux Restos du Cœur et comment nous avons pu ainsi réduire les coûts en consommant plus de métriques qu'auparavant."
+  "description" : "Vous avez sans doute déjà entendu (ou prononcé) les phrases suivantes :\r\n\r\n> \"Je peux partager mes données, je n'ai rien à cacher\"\r\n> \"Android c'est open-source, mes données sont protégées\"\r\n\r\nSauf qu'en fait, non… votre smartphone sait beaucoup de choses sur vous, et en partage énormément avec Google (Android) ou Apple (iOS). Et même si vous n'avez rien à cacher, vous n'avez pas intérêt à les donner massivement (vie privée, sécurité, dépendance, profilage, …).\r\n\r\nJe vais vous présenter /e/OS (https://e.foundation/), une distribution Android créée pour respecter votre vie privée :\r\n- suppression des services Google intégrés\r\n- applications open-source respectueuses de vos données\r\n- cloud respectueux ou auto-hébergé\r\n\r\nLe tout est facile d'accès, compatible avec un grand nombre de terminaux, et conserve une compatibilité maximale avec tous vos services.\r\n\r\nEt si vous n'avez pas envie de changer de téléphone ou de tout réinstaller du jour au lendemain, on évoquera des pistes pour reprendre progressivement la main sur vos données."
 }, {
   "id" : "671149",
   "name" : "Keycloak & Authorization : A New Hope",
@@ -797,19 +797,19 @@
   "slides_url" : null,
   "description" : "Préparez-vous à plonger dans l'univers captivant du Green Washing dans la tech ! Découvrez les astuces et les stratégies farfelues pour verdir votre image sans rien faire pour la planète. Rejoignez-nous pour explorer ensemble comment embrouiller les esprits avec des actions écolos qui ne sont que de la poudre aux yeux. Préparez-vous à apprendre comment surfer sur la vague verte sans jamais vraiment mouiller le maillot ! Ne manquez pas cette occasion unique d'apprendre l'art subtil du green washing dans la tech, car après tout, c'est bon pour la planète, non ?"
 }, {
-  "id" : "662787",
-  "name" : "Cartographier l'Univers de Star Wars avec Neo4j",
+  "id" : "662102",
+  "name" : "Loi de Conway : Lorsque votre conception produit se fâche avec votre organisation",
   "event_start" : "2024-06-27T13:30:00",
   "event_end" : "2024-06-27T14:30:00",
-  "event_type" : "Data",
+  "event_type" : "Méthodologie",
   "format" : "Conférence",
   "venue" : "Track 5",
   "venue_id" : null,
-  "speakers" : "Thomas Martin, Mickaël Barroux",
+  "speakers" : "Julien Topçu",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Rejoignez-nous dans une galaxie pas si lointaine au cœur de Neo4j, la base de données graphe qui améliore notre compréhension des constellations de données. Lors de cette conférence, nous tracerons notre route à travers les étoiles en suivant ce plan de vol :\r\nComprendre les concepts fondamentaux qui sous-tendent les bases de données graphes.\r\nApprendre à représenter l'univers Star Wars en termes de systèmes et planètes au sein de Neo4j.\r\nMaîtriser le langage de requête Cypher pour interroger et manipuler notre galaxie de données.\r\nDécouvrir les outils qui facilitent le travail avec Neo4j, permettant de visualiser et d'interagir avec nos données spatiales.\r\nIdentifier ce qui distingue Neo4j des bases de données traditionnelles et pourquoi elle est idéale pour cartographier des relations complexes.\r\nQue la Force des graphes soit avec vous pour explorer les liens cachés entre les systèmes et planètes de notre propre galaxie de données !"
+  "description" : "Bien que vous suiviez les bonnes pratiques, le logiciel construit s'écarte souvent de la vision produit, technique et parfois même des besoins de l'utilisateur ?\r\n\r\nEt si on vous disait qu'il existe une force qui a une influence certaine sur ce que vous produisez ? \r\n\r\nVenez découvrir la Loi de Conway qui a un pouvoir sur ce que vous construisez quelque soit votre métier. Nous verrons ses impacts sur les différents aspects du logiciel et nous apprendrons comment l'apprivoiser."
 }, {
   "id" : "665161",
   "name" : "5 ans avec Flutter",
@@ -909,10 +909,24 @@
   "slides_url" : null,
   "description" : "Plus le code est rapide, plus le code est bon. Au-delà de cette phrase tarte à la crème, ce talk propose de voir quand il faut optimiser du code, comment s'y prendre, et à quel moment s'arrêter.\r\nLes premières optimisations relèvent des bonnes pratiques que tout le monde devrait savoir faire, les suivantes sont sacrificielles : elles dégradent la lisibilité, la maintenabilité du code. \r\nPensé comme une déclinaise concrète de la loi de Eroom proposé par Tristan Nitot, ce talk, commencera avec un exemple de code bien mal codé comme nous l'avons tous déjà fait, puis au fil des optimisations, nous verrons bénéfices et sacrifices à faire pour aller toujours plus vite."
 }, {
-  "id" : "663259",
-  "name" : "Apache Software Foundation, comment ça marche ?",
+  "id" : "668905",
+  "name" : "L’open-source n’est pas (déjà) mort",
   "event_start" : "2024-06-28T14:30:00",
   "event_end" : "2024-06-28T15:30:00",
+  "event_type" : "Autre...",
+  "format" : "Conférence",
+  "venue" : "Track 1",
+  "venue_id" : null,
+  "speakers" : "Alexandre Brianceau",
+  "video_url" : null,
+  "files_url" : null,
+  "slides_url" : null,
+  "description" : "Est-ce que le meilleur de l’open-source est derrière nous ? Lorsque l’on voit les changements de licences d’Elastic, MongoDB ou Hashicorp ; ou l’arrivée de CentOS Stream et l’arrêt de distribution sans restrictions des sources par Redhat, on peut se poser la question.\r\n\r\nCette conférence résume les principaux bouleversements et propose d’enquêter sur les raisons de ces changements ainsi que d'étudier leurs impacts. Après avoir raconté l’historique, les licences BSL, SSPL et dérivées sont expliquées concrètement pour comprendre les enjeux.\r\n\r\nDestinées à combattre l’avidité des Cloud Providers et les GAFAM qui ne contribuent pas assez, il n’empêche que ces nouvelles licences ne sont pas open-source.\r\n\r\nQu’est-ce que ces hybridations entre open-source et propriétaire impliquent ? Pourquoi ces entreprises passent par ces mesures ? Est-ce qu’on ne verrait pas les limites de l’open-source ?"
+}, {
+  "id" : "663259",
+  "name" : "Apache Software Foundation, comment ça marche ?",
+  "event_start" : "2024-06-28T16:00:00",
+  "event_end" : "2024-06-28T17:00:00",
   "event_type" : "Autre...",
   "format" : "Conférence",
   "venue" : "Track 1",
@@ -923,33 +937,19 @@
   "slides_url" : null,
   "description" : "Qu'est-ce que la foundation Apache, comment ça marche ? C'est quoi un contributeur, un committeur, un PMC ? Et quid de ASF member, board et compagnie ?\r\nEn temps que directeur de la foundation cette année, JB présentera la foundation en détail."
 }, {
-  "id" : "658620",
-  "name" : "Burn Your Idols - Comment devenir un bon rôle modèle ?",
-  "event_start" : "2024-06-28T16:00:00",
-  "event_end" : "2024-06-28T17:00:00",
-  "event_type" : "Autre...",
-  "format" : "Conférence",
-  "venue" : "Track 1",
-  "venue_id" : null,
-  "speakers" : "Magali Milbergue",
-  "video_url" : null,
-  "files_url" : null,
-  "slides_url" : null,
-  "description" : "En tant que jeune fille qui aimait la science et voulait apprendre à coder, les seules quelques femmes de la tech que je pouvais trouver étaient les très très très extraordinaires comme Ada Lovelace, Grace Hopper ou Margaret Hamilton. 20 ans plus tard, il y a de grandes chances que si je vous demande de me parler de rôles modèles féminins dans la tech, vous me citiez ces mêmes noms. \r\n\r\nEt ces noms ne sont pas des mauvais noms. Ces femmes sont des rôles modèle. Mais elles sont des rôles modèles GENIAUX. Le genre de rôles modèles auquel il est très dur de s’identifier. Même avec un égo plutôt sain, je ne vois pas comment la plupart des femmes pourraient se dire “je suis la prochaine Ada Lovelace !”. \r\n\r\nCes femmes extraordinaires finissent par avoir l’impact inverse à celui qu’on voudrait qu’elles aient. En n’ayant que des femmes très très extraordinaires comme modèles, nous finissons par nous dire que nous n’avons pas notre place dans la tech comme nous ne sommes pas aussi extraordinaires. Et c’est bien sûr faux, il n’y a pas besoin d’être un génie pour travailler dans la tech. \r\n\r\nAvec cette conférence, je vais essayer de démontrer comment avoir uniquement des femmes très extraordinaires, des génies en rôles modèles est toxique pour les femmes qui n’arrivent pas à s’y retrouver, et donne des excuses à l’industrie pour  mettre la barre très haut en terme de compétences pour les femmes qui veulent y entrer. Ensemble, nous essaierons de trouver une façon d’avoir des modèles qui puissent impacter positivement les femmes de la tech, et nous nous demanderons ce qu’un bon rôle modèle devrait être. "
-}, {
-  "id" : "666318",
-  "name" : "/e/OS, mon smartphone Android sans Google",
+  "id" : "658493",
+  "name" : "De l'IA dans mon API Gateway ??? Mais pour quoi faire ?",
   "event_start" : "2024-06-28T17:00:00",
   "event_end" : "2024-06-28T17:30:00",
-  "event_type" : "Mobile",
+  "event_type" : "IA",
   "format" : "Tool in action",
   "venue" : "Track 1",
   "venue_id" : null,
-  "speakers" : "Benoît Masson",
+  "speakers" : "Mathieu Ancelin",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Vous avez sans doute déjà entendu (ou prononcé) les phrases suivantes :\r\n\r\n> \"Je peux partager mes données, je n'ai rien à cacher\"\r\n> \"Android c'est open-source, mes données sont protégées\"\r\n\r\nSauf qu'en fait, non… votre smartphone sait beaucoup de choses sur vous, et en partage énormément avec Google (Android) ou Apple (iOS). Et même si vous n'avez rien à cacher, vous n'avez pas intérêt à les donner massivement (vie privée, sécurité, dépendance, profilage, …).\r\n\r\nJe vais vous présenter /e/OS (https://e.foundation/), une distribution Android créée pour respecter votre vie privée :\r\n- suppression des services Google intégrés\r\n- applications open-source respectueuses de vos données\r\n- cloud respectueux ou auto-hébergé\r\n\r\nLe tout est facile d'accès, compatible avec un grand nombre de terminaux, et conserve une compatibilité maximale avec tous vos services.\r\n\r\nEt si vous n'avez pas envie de changer de téléphone ou de tout réinstaller du jour au lendemain, on évoquera des pistes pour reprendre progressivement la main sur vos données."
+  "description" : "Dans un monde où l'intégration de l'intelligence artificielle devient la norme, rejoignez-nous pour une exploration fascinante du potentiel de l'IA dans les API Gateways, pierre angulaire des applications modernes. Très orientée démo, cette présentation se concentrera sur des cas d'utilisation variés où l'IA transforme radicalement la productivité des développeurs, la sécurité et les interactions avec les utilisateurs finaux dans le contexte de son utilisation dans une API Gateway.\r\n\r\nNous verrons en détails comment l'IA peut vous éviter de leaker des informations sensibles, vous aider à boostraper votre nouvelle idée géniale très simplement ou encore vous permettre de détecter des anomalies dans vos appels d'API, tout ça via une configuration en langage naturel . Nous verrons également comment adresser les défis de la souveraineté de vos données et des changements de providers.\r\n\r\nCette présentation mettra en lumière l'importance croissante de l'IA dans le développement d'applications moderne. Que vous soyez un développeur, un architecte, ou simplement passionné par les dernières innovations technologiques, cette session vous fournira des insights précieux sur les avantages pratiques de l'IA dans le domaine des API Gateway."
 }, {
   "id" : "669460",
   "name" : "Alerte, tout brûle ! Comment gérer des incidents techniques",
@@ -1063,19 +1063,19 @@
   "slides_url" : null,
   "description" : "Apache Kafka, c’est un fantastique système distribué permettant de diffuser et stocker de l’information, des événements techniques ou métiers. Il est extrêmement performant et tolérant aux pannes. Bien entendu, vos données y seront stockées durablement. \r\n\r\nVraiment ? En êtes-vous certains ?\r\n\r\nDurant cette session, nous rappellerons brièvement les concepts principaux d’Apache Kafka et nous enchainerons sur les différents points importants à vérifier afin que vous ne perdiez pas de données avec votre plateforme de streaming de données. Notamment, les différentes architectures possibles et les configurations indispensables pour atteindre vos objectifs en termes de RPO et RTO. \r\nSi ces deux termes sont encore des principes obscurs pour vous, pas de problème, bien au contraire, vous devriez repartir de ce talk avec la connaissance de ces deux notions.\r\n"
 }, {
-  "id" : "652393",
-  "name" : "SOPS, Passez un savon à vos secrets en clair !",
+  "id" : "668255",
+  "name" : "Le côté obscur des pull requests et comment lutter",
   "event_start" : "2024-06-28T12:45:00",
   "event_end" : "2024-06-28T13:00:00",
-  "event_type" : "DevOps",
+  "event_type" : "Méthodologie",
   "format" : "Quicky",
   "venue" : "Track 3",
   "venue_id" : null,
-  "speakers" : "Sylvain Métayer",
+  "speakers" : "Hadrien Mens-Pellen",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Chacun à ses secrets. Vos applications également. Cependant, tout comme nous avons droit à notre jardin secret, nos secrets aimeraient bien avoir leur petit coin ou ils peuvent indiquer leur données sensibles…​ Au vu de tous dans un dépôt Git consultable par toute votre équipe, cela s’annonce compliqué ? Venez voir comment SOPS peut vous aider, et vous pourrez ensuite passer un savon à quiconque pousse des secrets en clair sur vos dépôts !"
+  "description" : "Ce n’est pas la pratique que vous recherchez. La pull request est le mode par défaut d'un nombre incroyable d’équipe. \r\n\r\nPourtant c’est particulièrement inefficace et inadapté à de nombreux contextes. Le votre en fait probablement partie.\r\n\r\nDans ce quicky d’hérétique, je vous propose de regarder le côté obscur de cette pratique et comment vous pouvez repasser du coté clair de la force. "
 }, {
   "id" : "663247",
   "name" : "Dédramatisons l'accessibilité",
@@ -1161,19 +1161,19 @@
   "slides_url" : null,
   "description" : "Vous vous êtes souvent demandé comment JPA pouvait à la fois être si rapide à prendre en main mais en même temps demander autant de temps quand les problèmes arrivent ? Ou bien être à la fois si simple à utiliser mais si magique ?\r\n\r\nJe reviens avec vous sur 15 ans d'utilisation de JPA (et d'Hibernate) pour reprendre les concepts de bases de l'outil afin de comprendre la magie, d'avoir les bonnes pratiques pour éviter les travers ainsi que des moyens de sauver la production lorsque les perfs s'écroulent."
 }, {
-  "id" : "654199",
-  "name" : "Pourquoi Le Figaro a choisi la technologie GraphQL pour moderniser ses API",
+  "id" : "662787",
+  "name" : "Cartographier l'Univers de Star Wars avec Neo4j",
   "event_start" : "2024-06-28T11:30:00",
   "event_end" : "2024-06-28T12:30:00",
-  "event_type" : "Architecture",
+  "event_type" : "Data",
   "format" : "Conférence",
   "venue" : "Track 4",
   "venue_id" : null,
-  "speakers" : "Chi Thanh BUi, Mehdi Beldjilali",
+  "speakers" : "Thomas Martin, Mickaël Barroux",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Le Figaro est le plus ancien titre de presse quotidienne en activité, et accueille plus de 33 millions de visiteurs uniques par mois, selon Médiamétrie. Près de 30 thématiques sont ainsi proposées aux lecteurs, sur des supports allant des textes aux vidéos en passant par les stories, les lives et les podcasts.\r\n\r\nTrès tôt, nous avons choisi d’adopter une architecture orientée services (SOA) en organisant les métiers et les données dans différentes APIs responsables de leur traitement. Pour chacune de ces thématiques, nous avons ainsi développé des dizaines d’APIs REST. Alors que notre stratégie était de ré-internaliser les fronts de certaines de nos marques (opérées par des tiers, lors d’acquisitions par exemple), et d’initier l’industrialisation de notre stack front web et mobile, force était de constater que cette architecture commençait à nous poser quelques difficultés.\r\n\r\nPour moderniser nos API, nous avons décidé en Janvier 2018 de miser sur GraphQL, et de développer une API Gateway, ce qui a poussé nos équipes à faire des choix essentiels en termes d’écosystème, d’outils, de stratégie de cache. Après 5 ans de production, nous vous proposons un retour d'expérience de l'implémentation initiale à la solution actuellement en production.\r\n\r\nNous aborderons en particulier les sujets suivants :\r\n\r\n- API Gateway avec GraphQL\r\n- Persisted Queries\r\n- Gestion du cache\r\n- Observabilité (log, metric mais également du schéma GraphQL)\r\n- GraphQL Stitching pour merger plusieurs schémas\r\n- Bonnes pratiques GraphQL"
+  "description" : "Rejoignez-nous dans une galaxie pas si lointaine au cœur de Neo4j, la base de données graphe qui améliore notre compréhension des constellations de données. Lors de cette conférence, nous tracerons notre route à travers les étoiles en suivant ce plan de vol :\r\nComprendre les concepts fondamentaux qui sous-tendent les bases de données graphes.\r\nApprendre à représenter l'univers Star Wars en termes de systèmes et planètes au sein de Neo4j.\r\nMaîtriser le langage de requête Cypher pour interroger et manipuler notre galaxie de données.\r\nDécouvrir les outils qui facilitent le travail avec Neo4j, permettant de visualiser et d'interagir avec nos données spatiales.\r\nIdentifier ce qui distingue Neo4j des bases de données traditionnelles et pourquoi elle est idéale pour cartographier des relations complexes.\r\nQue la Force des graphes soit avec vous pour explorer les liens cachés entre les systèmes et planètes de notre propre galaxie de données !"
 }, {
   "id" : "665064",
   "name" : "Le developement embarqué, c'est pour vous aussi !!!",
@@ -1203,20 +1203,6 @@
   "slides_url" : null,
   "description" : "Avec l'arrivée du scroll infini, de plus en plus de providers utilisent une pagination par curseur.\r\nPourquoi passer d'une pagination en LIMIT + OFFSET à une pagination par curseur ? Nous verrons dans ce talk plusieurs raisons.\r\nLa première est une raison de performance, y compris sur une seule table indexée correctement.\r\nD'autres motivations, peuvent aussi intervenir, comme le partage via une url fixe, ou bien le fait de ne pas rater de données lors d'un parcours itératif."
 }, {
-  "id" : "658467",
-  "name" : "Du code source à l'exécutable : plongée dans les entrailles de la compilation en Rust",
-  "event_start" : "2024-06-28T13:30:00",
-  "event_end" : "2024-06-28T14:30:00",
-  "event_type" : "Développement",
-  "format" : "Conférence",
-  "venue" : "Track 4",
-  "venue_id" : null,
-  "speakers" : "Édouard Siha",
-  "video_url" : null,
-  "files_url" : null,
-  "slides_url" : null,
-  "description" : "Comment le compilateur Rust fait-il pour assurer le respect de la notion d'emprunt ? Pourquoi est-il capable de générer facilement des binaires spécialisés pour une plateforme d'exécution différente de celle de la plateforme de compilation ? Quel genre d'optimisations surprenantes est-il capable de réaliser ? Quelles caractéristiques le différencie des compilateurs utilisés pour le C ? Pour le Java ?\r\n\r\nEmbarquez avec moi pour un parcours didactique où l'émerveillement est de mise !\r\n"
-}, {
   "id" : "658043",
   "name" : "Rendre le cloud \"carbon-aware\"",
   "event_start" : "2024-06-28T14:30:00",
@@ -1231,19 +1217,19 @@
   "slides_url" : null,
   "description" : "# \"J'ai toute mon infrastructure dans le cloud, donc je n'émets pas de CO2\"\r\n\r\nLe Cloud cache un vilain secret : il génère autant de gaz à effet de serre que des pays entiers comme la France ou le Royaume-Uni ([IEA, 2021](https://www.iea.org/reports/data-centres-and-data-transmission-networks)). Et ça ne fait qu'empirer, le [cloud vient de dépasser les émissions de l'aviation](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) !\r\n\r\nLes équipes Infra & Cloud ont l’opportunité d’atténuer ce problème. Tout commence par une simple décision : choisir la bonne région chez son hébergeur favori (GCP, Azur, AWS..). Et devinez quoi ? Ce choix peut diviser vos émissions par 10, voire 20 ! Selon la météo, un pays comme l’Irlande a une intensité carbone de 400 gCO2eq/kWh quand le réseau français peut descendre à 20 g. Et ils y a bien d'autres moyens d'actions!\r\n\r\nJe vais donc montrer comment on peut mesurer et réduire drastiquement ces émissions : rendre son cloud “carbon-aware”.\r\n\r\n# Structure du talk\r\n\r\nDans cette présentation, je vais :\r\n\r\n- C'est quoi le problème ?\r\n- On peut mesurer les émissions du cloud ?\r\n- Comment on peut réduire l'empreinte de mon cloud?\r\n- Qu'est ce que le concept de \"carbon-awareness\"?"
 }, {
-  "id" : "670915",
-  "name" : "Et si on ouvre grand les bras aux SIG ?",
+  "id" : "667155",
+  "name" : "\uD83D\uDDC4️Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?",
   "event_start" : "2024-06-28T16:00:00",
   "event_end" : "2024-06-28T17:00:00",
-  "event_type" : "Développement",
+  "event_type" : "DevOps",
   "format" : "Conférence",
   "venue" : "Track 4",
   "venue_id" : null,
-  "speakers" : "Talab Ou Ali Halima",
+  "speakers" : "Jean-Philippe Baconnais, Jules Agostini",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Si l'on évoque le domaine de la géographie, notre esprit se tourne probablement vers la Terre et ses différents phénomènes physiques, biologiques et humains. Cependant, il existe un autre aspect de la géographie qui est orienté vers l'informatique : le SIG (Système d'Information Géographique). Ce dernier est un outil informatique qui permet la représentation et l'analyse de tout ce qui se trouve sur terre ainsi que les événements qui y surviennent. Grâce à sa grande accessibilité et à ses nombreuses applications, le SIG est de plus en plus sollicité dans notre quotidien. Dans ce talk, nous allons explorer des exemples d'outils et de services offerts par le SIG ainsi que les domaines dans lesquels il est appliqué."
+  "description" : "La CI/CD fait partie de notre quotidien. Que l’on soit développeur·euse, ou bien Ops, nous avons forcément passé du temps à créer ou modifier des scripts de CI/CD.\r\n\r\nUn nouveau script de CI/CD ? Pas de soucis, nous savons où trouver un exemple et utilisons la force de frappe d’un bon vieux “copier / coller” pour avoir un pipeline de CI tout beau tout propre sur notre projet.\r\n\r\nPourquoi ne pas migrer vos stages et vos jobs dans des “catalogues de CI/CD” pour avoir l’ensemble de vos scripts à disposition sur une étagère ?\r\n\r\nAprès vous avoir présenté cette approche, je vous détaillerai la manière de la mettre rapidement en place dans GitLab. Nous verrons ses avantages et inconvénients et terminerons par parler de la solution R2DevOps qui a depuis plusieurs années créé leur solution en se basant sur cette notion de catalogue."
 }, {
   "id" : "664116",
   "name" : "Android ♥ Kotlin, une folle histoire d'amour",
@@ -1301,19 +1287,19 @@
   "slides_url" : null,
   "description" : "Qui d'entre nous n'a jamais traversé une période de doute existentiel..? \"Pourquoi est-ce que je me lève chaque matin ?\" \"Quel est le sens de mon passage sur Terre ?\" Voici le genre de questions qui peuvent nous assaillir. Quand elles se font trop pressantes, il faut prendre le taureau par les cornes et faire en sorte d'y répondre. C'est ce que j'ai fait, et de façon inattendue, j'ai trouvé le sens de la vie... grâce à WebAssembly !\r\n\r\nDans ce talk, je vais vous raconter ma découverte du monde du développement au travers d'un sujet fascinant, le Jeu de la vie, que j'ai tenté d'implémenter durant ma reconversion. Automates cellulaires, émergence et enjeux de performance, venez découvrir avec moi les défis relevés pendant cette implémentation !"
 }, {
-  "id" : "663769",
-  "name" : "Playwright : tester vos applications devient un jeu d'enfant",
+  "id" : "664925",
+  "name" : "Les brouteurs d'IA",
   "event_start" : "2024-06-28T13:00:00",
   "event_end" : "2024-06-28T13:15:00",
-  "event_type" : "Web",
+  "event_type" : "Autre...",
   "format" : "Quicky",
   "venue" : "Track 5",
   "venue_id" : null,
-  "speakers" : "Benjamin Cavy",
+  "speakers" : "Nicolas Ledez",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Tester unitairement ses composants graphiques c'est bien, tester le bon fonctionnement de toute son application via un navigateur pilotable programmatiquement c'est mieux !\r\n\r\nJe vous propose de vous présenter par la pratique Playwright, un outil permettant de tester les fonctionnalités de vos applications de manière performante dans tous les grands navigateurs du marché.\r\n\r\nJ'ai longtemps été un amoureux de Cypress pour ce genre de cas d'usage, mais j'ai été récemment très séduit par Playwright, qui propose à mon avis une meilleure expérience développeur via un outillage très complet.\r\n"
+  "description" : "Alors, je dois vous avouer, j’ai une grande passion. C’est me faire arnaquer.\r\nComme cela, je comprends mieux le pourquoi et le comment de certaines duperies.\r\n\r\nEt il y a quelques années, j’ai été contacté par de “charmantes jeunes femmes de ma région”.\r\nEt comme j’avais un peu de temps à perdre, j’ai cherché l’amour.\r\n\r\nBien entendu, je l’ai trouvé. 3 fois !\r\n\r\nTout cela m’a permis de bien comprendre certaines demandes, et les différentes mécaniques mises en place dans ces escroqueries. D’une certaine manière, je fais du reverse engineering d’arnaques.\r\n\r\nEt l’IA dans tout ça ? Il faudra venir me voir pour savoir :)\r\n\r\nEt pourquoi je parle de tout ça dans une conférence technique ? Déjà parce que c’est marrant. Mais aussi parce que cela permet d’illustrer pas mal de choses au niveau de la sécurité."
 }, {
   "id" : "662651",
   "name" : "Elasticsearch Query Language: ES|QL",
