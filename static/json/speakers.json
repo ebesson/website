@@ -49,6 +49,16 @@
   "twitter" : "@Slocalyy",
   "social" : "https://www.linkedin.com/in/lucas-audart/"
 }, {
+  "id" : "72b906ad-1a5b-4110-8178-01698f9ceae6",
+  "lastname" : "Averty",
+  "firstname" : "Benoit",
+  "imageProfilURL" : "https://sessionize.com/image/ff75-400o400o1-XqHmfgpg6av9NWohPmMkfP.jpg",
+  "bio" : "Je suis consultant et formateur chez Zenika Rennes depuis plusieurs années. Je reste polyvalent car j'aime participer à tous les aspects d'un produit : front, back, data, déploiement.\r\n\r\nJe suis très attaché à la qualité des produits que je développe et j'aime revenir aux fondamentaux des technologies que j'utilise.\r\n\r\nMes intérêts du moment : Elastic, Kafka, Remix.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
   "id" : "66670a42-43be-49d9-9715-b11aede4c65e",
   "lastname" : "Baconnais",
   "firstname" : "Jean-Philippe",
@@ -288,6 +298,16 @@
   "googleplus" : null,
   "twitter" : null,
   "social" : null
+}, {
+  "id" : "ec729983-7bcf-4daa-86a7-4951ff34b2c8",
+  "lastname" : "Cussac",
+  "firstname" : "Franck",
+  "imageProfilURL" : "https://sessionize.com/image/7678-400o400o1-3LToN1fuRtTf1rrLTJSKTv.png",
+  "bio" : "Consultant dans data ingénierie, spécialisé dans le développement de pipeline de traitement de données avec Scala, Spark et Airflow et d'utiliser AWS pour tout ce qui est infrastructure.\r\nFormateur Spark, Kubernetes et Airflow.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/le-plus-beau-de-hymaia/"
 }, {
   "id" : "d64fba44-b0b8-4281-bb00-b96f24767244",
   "lastname" : "De Carvalho",
@@ -944,16 +964,6 @@
   "firstname" : "Stéphane",
   "imageProfilURL" : "https://sessionize.com/image/27c0-400o400o1-MKfzB1LGFg9Pt3gPwnusC8.png",
   "bio" : "Développeur chez Liksi",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
-}, {
-  "id" : "d0afe5fb-4349-470d-a029-6b3af6c5e4d4",
-  "lastname" : "Thenoz",
-  "firstname" : "Laurène",
-  "imageProfilURL" : "https://sessionize.com/image/31c6-400o400o1-w2vXt3kMqqsc7LxTYer4tK.png",
-  "bio" : "I've span through most organisational layers from manager to team member to CoDir member, from tech to product to organisation, from consulting to executing to training, and that makes me better at seeing things from a systemic point of view than being the expert on a specific domain.\r\n\r\nI use this strength to connect things, contextualise them, find strange metaphors, and share new and simpler ways to navigate the world we work in on a daily basis.\r\n\r\nThese days I work as a data product manager for my clients and a manager, trainer and head of product within Hymaia.",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
