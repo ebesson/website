@@ -26,7 +26,6 @@
                 'Web': '#2e9eb7',
                 'Mobile': '#ff99ff',
                 'Keynote': '#F55E52',
-                'Écoconception': '#20BF55',
                 'IA': '#D5B900',
                 'Écoconception': '#8FC93A',
                 'DevOps': '#774E24',
